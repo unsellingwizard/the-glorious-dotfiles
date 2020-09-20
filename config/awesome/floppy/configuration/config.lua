@@ -9,14 +9,14 @@ return {
 
 		weather = {
 			key           = '',
-			city_id       = '',
+			city_id       = '',	
 			units         = 'metric',
 			update_interval = 1200
 		},
 
 		network = {
 			wired_interface = 'enp0s0',
-			wireless_interface = 'wlan0'
+			wireless_interface = 'wlp2s0'
 		},
 
 		clock = {
